@@ -1,0 +1,15 @@
+# Codex/OMX runtime state
+.omx/
+
+# Temporary document review artifacts
+.tmp-docx-review/
+
+# Local debug output
+debug.log
+*.log
+
+# Common editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
